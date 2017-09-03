@@ -63,4 +63,6 @@ target/
 .vagrant/
 .bundle/
 
-
+# IDE
+.idea
+.idea/
